@@ -1,4 +1,4 @@
-def solve(s: str) -> str:
+def solve(s):
     if len(s) == 0: return ""
     
     # Вычисляем префикс-функцию
